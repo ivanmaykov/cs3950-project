@@ -1,0 +1,7 @@
+Ada,
+
+I think I've figured out the problem - viewport widths over 1040 pixels are causing some problems, and that's a common size for tablets and latops, especially the new macbooks and chromebooks people have been buying.  I guess we optimized the site for mobile users and left out the people with larger screens.  A pretty quick fix - just some CSS - but we should get on it pronto.
+
+Let me know if you guys need more resources, this is a priority now.
+
+Jill
