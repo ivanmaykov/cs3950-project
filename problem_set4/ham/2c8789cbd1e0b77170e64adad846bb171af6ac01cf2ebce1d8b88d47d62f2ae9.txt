@@ -1,8 +1,0 @@
-Team,
-
-We need to call a stop work.  There's a problem with the air injectors (might be with the hogging jets), and the condensers are not performing correctly.  Vacuuum levels need to get fixed, or else I worry that the turbines might start to experience increased wear and eventually start to wipe bearings.  This is very expensive equipment that we're dealing with, and we bearing failure means millions of dollars in losses and customers going without electricity for weeks, if not months.  
-
-Jenny is going to split the normal shifts into several teams - mechanical, electrical, and testing.  Report to her tomorrow morning and get your assignment.  My goal is to have everything up and running by end-of-day on the 9th.
-
-C. E. Morris
-Supervisor, Mechanical Division

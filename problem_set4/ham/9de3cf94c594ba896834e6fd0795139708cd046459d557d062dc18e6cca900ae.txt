@@ -1,5 +1,0 @@
-Teddy,
-
-I had a look at your work and I think you have a few errrors in how you used the Bellman equation, which is why your value iteration algorithm isn't coverging.  Check lines 3 and 4 of your code against Chapter 6 of the text and see if you can spot the error.  Otherwise the program is very good and your solution is close.
-
-Dr. O.
